@@ -56,10 +56,17 @@ Dive into our comprehensive Jupyter notebooks:
 ## 🧠 Model Showcases
 
 Discover the power of our models:
+- Serialized models that capture our findings in the `models/` directory.
+- Performance metrics that benchmark success in the `results/` directory.
 
-- Visualizations that narrate the story of our data (`images/`)
-- Serialized models that capture our findings (`models/`)
-- Performance metrics that benchmark success (`results/`)
+## 🖼 Visual Evidence
+
+The story of our data is narrated through impactful visualizations, illustrating the classification accuracy and predictive strength of our models:
+- **Confusion Matrix**: A snapshot of true vs. predicted values.
+- **ROC Curve**: A graphical representation of our models' diagnostic abilities.
+
+Explore the `images/` directory to witness the visual triumphs of our analytical prowess.
+
 
 ## 🤝 How to Contribute
 
