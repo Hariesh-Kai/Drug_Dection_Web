@@ -2,14 +2,20 @@ name: teenguard-env
 channels:
   - defaults
 dependencies:
-  - python=3.8  # or any specific version you used
+  - python=3.8  # or any version you are using
   - numpy
   - pandas
   - matplotlib
   - seaborn
   - scikit-learn
+  - yellowbrick
   - imbalanced-learn
-  - jupyter
+  - pip
   - pip:
-    - ipykernel
-    - notebook
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - scikit-learn
+    - yellowbrick
+    - imbalanced-learn
