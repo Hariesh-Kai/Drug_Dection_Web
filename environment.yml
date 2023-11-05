@@ -1,0 +1,15 @@
+name: teenguard-env
+channels:
+  - defaults
+dependencies:
+  - python=3.8  # or any specific version you used
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - imbalanced-learn
+  - jupyter
+  - pip:
+    - ipykernel
+    - notebook
